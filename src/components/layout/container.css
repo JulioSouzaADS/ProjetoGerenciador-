@@ -1,0 +1,28 @@
+.container {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    color: royalblue;
+    font-style: italic;
+}
+
+.min-height {
+    min-height: 75%;
+    background-color: red;
+}
+
+.start {
+    justify-content: flex-start;
+    background-color: green;
+
+}
+
+.collum {
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
