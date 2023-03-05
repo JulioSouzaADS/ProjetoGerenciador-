@@ -6,13 +6,12 @@
     flex-direction: row;
     flex-wrap: wrap;
     list-style: none;
-    color: royalblue;
-    font-style: italic;
+   
 }
 
 .min-height {
     min-height: 75%;
-    background-color: red;
+    background-color: rgb(200, 0, 255);
 }
 
 .start {
